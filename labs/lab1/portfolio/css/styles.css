@@ -90,6 +90,10 @@ div {
     margin-left: 23%;
 }
 
-#me, #welcomeText {
+.div {
+    float: left;
+}
+
+#me {
     float: left;
 }
