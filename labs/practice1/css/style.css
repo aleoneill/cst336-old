@@ -1,0 +1,58 @@
+header {
+    background-color:#002a4e;
+    color: white;
+    height: 150px;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+#logo {
+    height: 100px;
+}
+.cs {
+    float:left;
+    text-align:center;
+    padding-right: 15px;
+}
+.cd {
+    float:left;
+    text-align:center;
+    padding-right: 15px;
+}
+.onlinecs {
+    float:left;
+    text-align:center;
+    padding-right: 15px;
+}
+.masters {
+    float:left;
+    text-align:center;
+    padding-right: 15px;
+}
+h2 {
+    font-weight:normal;
+}
+body {
+    font-family: "Hind","Helvetica Neue",Helvetica,Arial,"Nimbus Sans L",sans-serif;
+}
+li {
+    margin: 10px 0;
+}
+ul {
+    padding-left: 100px;
+}
+a {
+    color:#6495ed;
+}
+.description, .images {
+    width: 85%;
+    padding-left: 100px;
+}
+#programs, #minors {
+    padding-left: 100px;
+}
+footer {
+    padding-left: 100px;
+}
+
