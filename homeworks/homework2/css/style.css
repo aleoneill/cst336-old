@@ -1,0 +1,106 @@
+.playerHand {
+    margin: auto;
+    padding: auto;
+    float: absolute;
+}
+.card {
+    margin: 2px;
+}
+.player {
+    border-radius: 50%;
+    height: 100px;
+}
+.p1, .p2 {
+    text-align:left;
+    width: 600px;
+    float:left;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+header {
+    text-align:center;
+    font-size: 4em;
+    -webkit-animation:colorchange 20s infinite alternate;
+    }
+.game {
+    width: 800px;
+    overflow: auto;
+    padding: 20px 30px;
+    margin: auto;
+    text-align:center;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+#logo {
+    height: 50px;
+    width: 50px;
+    float: center;
+}
+footer {
+    clear: left;
+    font-size: 12px;
+    color: black;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    text-align: center;
+}
+body {
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 1800px;
+}
+hr {
+    font-size: large;
+}
+@-webkit-keyframes colorchange {
+      0% {
+        
+        color: blue;
+      }
+      
+      10% {
+        
+        color: #8e44ad;
+      }
+      
+      20% {
+        
+        color: #1abc9c;
+      }
+      
+      30% {
+        
+        color: #d35400;
+      }
+      
+      40% {
+        
+        color: blue;
+      }
+      
+      50% {
+        
+        color: #34495e;
+      }
+      
+      60% {
+        
+        color: blue;
+      }
+      
+      70% {
+        
+        color: #2980b9;
+      }
+      80% {
+     
+        color: #f1c40f;
+      }
+      
+      90% {
+     
+        color: #2980b9;
+      }
+      
+      100% {
+        
+        color: pink;
+      }
+    }
