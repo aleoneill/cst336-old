@@ -1,0 +1,1020 @@
+[24-Sep-2018 19:07:19 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816039.0156.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:07:19 UTC] PHP Stack trace:
+[24-Sep-2018 19:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:07:19 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:60
+[24-Sep-2018 19:07:19 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:25
+[24-Sep-2018 19:07:19 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:07:19 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:07:19 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816039.0337.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:07:19 UTC] PHP Stack trace:
+[24-Sep-2018 19:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:07:19 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:60
+[24-Sep-2018 19:07:19 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:25
+[24-Sep-2018 19:07:19 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:07:19 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:07:19 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816039.0341.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:07:19 UTC] PHP Stack trace:
+[24-Sep-2018 19:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:07:19 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:60
+[24-Sep-2018 19:07:19 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:25
+[24-Sep-2018 19:07:19 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:07:19 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:07:19 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816039.0345.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:07:19 UTC] PHP Stack trace:
+[24-Sep-2018 19:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:07:19 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:60
+[24-Sep-2018 19:07:19 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:25
+[24-Sep-2018 19:07:19 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:07:19 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 10
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:10
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816137.3503.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:08:57 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:08:57 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 10
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:10
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816137.351.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:08:57 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:08:57 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 10
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:10
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816137.3515.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:08:57 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:08:57 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 10
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:10
+[24-Sep-2018 19:08:57 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816137.352.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:08:57 UTC] PHP Stack trace:
+[24-Sep-2018 19:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:08:57 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:08:57 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:08:57 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:08:57 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:09:39 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816179.7979.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:09:39 UTC] PHP Stack trace:
+[24-Sep-2018 19:09:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:09:39 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:09:39 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:09:39 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:09:39 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:09:39 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816179.8105.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:09:39 UTC] PHP Stack trace:
+[24-Sep-2018 19:09:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:09:39 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:09:39 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:09:39 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:09:39 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:09:39 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816179.8112.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:09:39 UTC] PHP Stack trace:
+[24-Sep-2018 19:09:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:09:39 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:09:39 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:09:39 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:09:39 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:09:39 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816179.8117.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:09:39 UTC] PHP Stack trace:
+[24-Sep-2018 19:09:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:09:39 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:09:39 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:09:39 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:09:39 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:12 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816212.6801.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:12 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:12 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:12 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:12 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:12 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:12 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816212.6895.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:12 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:12 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:12 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:12 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:12 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:12 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816212.69.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:12 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:12 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:12 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:12 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:12 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:12 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816212.6903.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:12 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:12 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:12 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:12 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:12 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:33 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816233.7988.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:33 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:33 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:33 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:33 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:33 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:33 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816233.8079.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:33 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:33 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:33 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:33 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:33 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:33 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816233.8083.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:33 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:33 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:33 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:33 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:33 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:33 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816233.8087.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:33 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:33 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:33 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:33 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:33 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:35 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816235.9959.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:35 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:35 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:35 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:35 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:35 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:35 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816235.9965.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:35 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:35 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:35 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:35 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:35 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:35 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816235.9969.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:35 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:35 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:35 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:35 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:35 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:10:35 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816235.9972.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:10:35 UTC] PHP Stack trace:
+[24-Sep-2018 19:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:10:35 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:10:35 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:10:35 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:10:35 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:17:20 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816640.9063.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:17:20 UTC] PHP Stack trace:
+[24-Sep-2018 19:17:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:17:20 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:17:20 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:17:20 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:17:20 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:17:20 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816640.9071.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:17:20 UTC] PHP Stack trace:
+[24-Sep-2018 19:17:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:17:20 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:17:20 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:17:20 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:17:20 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:17:20 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816640.9075.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:17:20 UTC] PHP Stack trace:
+[24-Sep-2018 19:17:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:17:20 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:17:20 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:17:20 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:17:20 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:17:20 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816640.9079.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php on line 71
+[24-Sep-2018 19:17:20 UTC] PHP Stack trace:
+[24-Sep-2018 19:17:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:17:20 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:61
+[24-Sep-2018 19:17:20 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:26
+[24-Sep-2018 19:17:20 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:30
+[24-Sep-2018 19:17:20 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/labs/practice3/p3/inc/charts.php:71
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 27
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:27
+[24-Sep-2018 19:34:05 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 29
+[24-Sep-2018 19:34:05 UTC] PHP Stack trace:
+[24-Sep-2018 19:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:34:05 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:70
+[24-Sep-2018 19:34:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:29
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:52:52 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:52:52 UTC] PHP Stack trace:
+[24-Sep-2018 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:52:52 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:53:02 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 28
+[24-Sep-2018 19:53:02 UTC] PHP Stack trace:
+[24-Sep-2018 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:53:02 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:72
+[24-Sep-2018 19:54:41 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 9
+[24-Sep-2018 19:54:41 UTC] PHP Stack trace:
+[24-Sep-2018 19:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:54:41 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:71
+[24-Sep-2018 19:54:41 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:9
+[24-Sep-2018 19:54:41 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 9
+[24-Sep-2018 19:54:41 UTC] PHP Stack trace:
+[24-Sep-2018 19:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:54:41 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:71
+[24-Sep-2018 19:54:41 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:9
+[24-Sep-2018 19:54:41 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 9
+[24-Sep-2018 19:54:41 UTC] PHP Stack trace:
+[24-Sep-2018 19:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:54:41 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:71
+[24-Sep-2018 19:54:41 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:9
+[24-Sep-2018 19:54:41 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php on line 9
+[24-Sep-2018 19:54:41 UTC] PHP Stack trace:
+[24-Sep-2018 19:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:0
+[24-Sep-2018 19:54:41 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:71
+[24-Sep-2018 19:54:41 UTC] PHP   3. sort() /home/ubuntu/workspace/cst336/labs/practice3/p3/reviews.php:9
