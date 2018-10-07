@@ -4,7 +4,7 @@
     if (isset($_GET['keyword'])) {
         include 'api/pixabayAPI.php';
         $keyword = $_GET['keyword'];
-        $imageURLs = getImageURLs($keyword);
+        $imageURLs = getImageURLs($keyword, $_GET['layout']);
         $backgroundImage = $imageURLs[array_rand($imageURLs)];
     }
 ?>
@@ -17,53 +17,11 @@
         <style>
             @import url("css/styles.css");
             body {
-                background-image: url('<?-$backgroundImage ?>');
+                background-image: url('<?=$backgroundImage ?>');
             }
         </style>
     </head>
     <body>
-        <br>
-        <?php
-            if(!isset($imageURLs)) {
-                echo "<h2>Type a keyword to display a slideshow <br> with random images from Pixabay.com</h2>";
-            }
-            else {
-        ?>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <?php
-                    for ($i = 0; $i < 5; $i++) {
-                        echo "<li data-target='#carousel-example-generic' data-slide-to='$i'";
-                        echo ($i == 0)?" class='active'": "";
-                        echo "><li>";
-                    }
-                ?>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-            <?php
-                for ($i = 0; $i < 5; $i++) {
-                    do {
-                        $randomIndex = rand(0, count($imageURLs));
-                    }
-                    while (!isset($imageURLs[$randomIndex]));
-                    
-                    echo "<img src'" .$imageURLs[$randomIndex]. "' width='200'>";
-                    unset($imageURLs[$randomIndex]);
-                }
-            ?>
-            </div>
-            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-        <?php
-            }
-        ?>
         <form>
             <input type="text" name="keyword" placeholder="keyword" value="<?=$_GET['keyword']?>"/>
             <input type="radio" id="lhorizontal" name="layout" value="horizontal">
@@ -79,6 +37,54 @@
             </select>
             <input type="submit" value="Search">
         </form>
+        <br>
+        <?php
+            if(!isset($imageURLs)) {
+                echo "<h2>Type a keyword to display a slideshow <br> with random images from Pixabay.com</h2>";
+            }
+            else {
+        ?>
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <?php
+                    for ($i = 0; $i < 5; $i++) {
+                        echo "<li data-target='#carousel-example-generic' data-slide-to='$i'";
+                        echo ($i == 0)?" class='active'": "";
+                        echo "></li>";
+                    }
+                ?>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+            <?php
+                for ($i = 0; $i < 7; $i++) {
+                    do {
+                        $randomIndex = rand(0, count($imageURLs));
+                    }
+                    while (!isset($imageURLs[$randomIndex]));
+                    
+                    echo '<div class="carousel-item ';
+                    echo ($i == 0) ? "active" : "";
+                    echo '">';
+                    echo '<img src="' . $imageURLs[$randomIndex] . '">';
+                    echo '</div>';
+                    unset($imageURLs[$randomIndex]);
+                }
+            ?>
+            </div>
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <?php
+            }
+        ?>
+        <br>
+        
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootsrap/3.0.0/js/bootstrap.min.js"></script>

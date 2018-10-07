@@ -1,0 +1,127 @@
+[17-Sep-2018 21:55:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 69
+[17-Sep-2018 22:06:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:06:21 UTC] PHP Stack trace:
+[17-Sep-2018 22:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:06:21 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:06:21 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:06:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:06:21 UTC] PHP Stack trace:
+[17-Sep-2018 22:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:06:21 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:06:21 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:06:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:06:21 UTC] PHP Stack trace:
+[17-Sep-2018 22:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:06:21 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:06:21 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:06:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:06:21 UTC] PHP Stack trace:
+[17-Sep-2018 22:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:06:21 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:06:21 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:06:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:06:21 UTC] PHP Stack trace:
+[17-Sep-2018 22:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:06:21 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:06:21 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:06:21 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 63
+[17-Sep-2018 22:06:21 UTC] PHP Stack trace:
+[17-Sep-2018 22:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:06:21 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:06:21 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:52
+[17-Sep-2018 22:06:21 UTC] PHP   4. count() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:63
+[17-Sep-2018 22:08:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:11 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:11 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:11 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:11 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:11 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:11 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:11 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:11 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:11 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:11 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:11 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:11 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:11 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:11 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:11 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:11 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 63
+[17-Sep-2018 22:08:11 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:11 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:11 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:52
+[17-Sep-2018 22:08:11 UTC] PHP   4. count() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:63
+[17-Sep-2018 22:08:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:14 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:14 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:14 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:14 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:14 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:14 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:14 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:14 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:14 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:14 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:14 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:14 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 50
+[17-Sep-2018 22:08:14 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:14 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:14 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:50
+[17-Sep-2018 22:08:14 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 63
+[17-Sep-2018 22:08:14 UTC] PHP Stack trace:
+[17-Sep-2018 22:08:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:08:14 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:08:14 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:52
+[17-Sep-2018 22:08:14 UTC] PHP   4. count() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:63
+[17-Sep-2018 22:09:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 66
+[17-Sep-2018 22:09:28 UTC] PHP Stack trace:
+[17-Sep-2018 22:09:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:09:28 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:09:28 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:53
+[17-Sep-2018 22:09:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 66
+[17-Sep-2018 22:09:30 UTC] PHP Stack trace:
+[17-Sep-2018 22:09:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:09:30 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:09:30 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:53
+[17-Sep-2018 22:10:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 66
+[17-Sep-2018 22:10:19 UTC] PHP Stack trace:
+[17-Sep-2018 22:10:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:10:19 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:10:19 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:53
+[17-Sep-2018 22:10:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 66
+[17-Sep-2018 22:10:42 UTC] PHP Stack trace:
+[17-Sep-2018 22:10:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:10:42 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:10:42 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:53
+[17-Sep-2018 22:16:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 71
+[17-Sep-2018 22:16:42 UTC] PHP Stack trace:
+[17-Sep-2018 22:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:16:42 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:16:42 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:53
+[17-Sep-2018 22:16:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 71
+[17-Sep-2018 22:16:49 UTC] PHP Stack trace:
+[17-Sep-2018 22:16:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:0
+[17-Sep-2018 22:16:49 UTC] PHP   2. displayHangMan() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:14
+[17-Sep-2018 22:16:49 UTC] PHP   3. play() /home/ubuntu/workspace/cst336/homeworks/homework2/index.php:53
+[23-Sep-2018 22:04:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 24
+[26-Sep-2018 02:07:01 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 32
+[26-Sep-2018 04:03:09 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in /home/ubuntu/workspace/cst336/homeworks/homework2/index.php on line 23
